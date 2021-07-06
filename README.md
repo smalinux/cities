@@ -1,2 +1,3 @@
 # cities
 ALASKA
+Majorca
